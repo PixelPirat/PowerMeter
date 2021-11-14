@@ -12,3 +12,8 @@ You can open and inspect the files with there logic app.
 
 ### Main components
 ![components](https://raw.githubusercontent.com/PixelPirat/PowerMeter/main/Images/img07_pcb_bottom_comment.png)
+
+### Protocol timing
+The MCU sends every 1s a frame to the display. It looks like, the frame starts with a ~2ms sync bit.  
+A 1 or 0 is represented either by a long (~300µs) or short (~90µs) high. Ether way,one bit has a duration of around 400µs.
+![timing](https://raw.githubusercontent.com/PixelPirat/PowerMeter/main/Images/protocol_timing.png)
