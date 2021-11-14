@@ -1,5 +1,5 @@
 # PowerMeter
 
-Hacking the power meter from schwaiger.de.
+Hacking the power meter from schwaiger.de.  
 https://schwaiger.de/collections/steckdosen/products/energiekostenmessgerat
 
