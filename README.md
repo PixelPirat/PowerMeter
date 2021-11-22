@@ -9,6 +9,7 @@ Open contacts on the circuit board can carry the mains voltage. I am not respons
 ### Captures
 The [captures](https://github.com/PixelPirat/PowerMeter/tree/main/Captures) were taken with a logic analycer from [saleae.com](https://www.saleae.com/)  
 You can open and inspect the files with there logic app.
+And analyse the captures with the custom plugin.
 
 ### Main components
 ![components](https://raw.githubusercontent.com/PixelPirat/PowerMeter/main/Images/img07_pcb_bottom_comment.png)
